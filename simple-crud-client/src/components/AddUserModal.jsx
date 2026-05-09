@@ -1,4 +1,4 @@
-import { Envelope } from "@gravity-ui/icons";
+
 import { Button, Input, Label, Modal, Surface, TextField } from "@heroui/react";
 
 const AddUserModal = ({ createUserAction }) => {
